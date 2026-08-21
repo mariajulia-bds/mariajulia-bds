@@ -67,17 +67,6 @@ Aqui você encontra alguns projetos que representam minha evolução como desenv
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariajulia-bds&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajulia-bds&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
-
 ### 🌐 Redes e Contato
 
 <p align="center">
